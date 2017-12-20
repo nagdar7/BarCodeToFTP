@@ -1,6 +1,6 @@
 # BarCodeToFTP
 
-[a link](https://github.com/nagdar7/BarCodeToFTP/raw/master/BarCodeToFTP.mobileprovision)
+[Mobile provision](https://github.com/nagdar7/BarCodeToFTP/raw/master/BarCodeToFTP.mobileprovision)
 
 
-[a link](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/nagdar7/BarCodeToFTP/master/manifest.plist)
+[Download app](https://htmlpreview.github.io/?https://github.com/nagdar7/BarCodeToFTP/blob/master/index.html)
